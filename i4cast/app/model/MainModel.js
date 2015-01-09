@@ -4,7 +4,8 @@ Ext.define('i4cast.model.MainModel', {
         identifier:'uuid',
         fields: [
             { name: 'temperature', type: 'float' },
-            { name:'windSpeed', type:'int'}
+            { name: 'windSpeed', type: 'int'},
+            { name: 'summary', type: 'string' }
         ]
     }
 });

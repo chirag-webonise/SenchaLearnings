@@ -28,8 +28,8 @@ Ext.define('i4cast.view.Main', {
                     {
                         xtype: 'label',
                         type: 'temperature',
-                        html: '32.00',
-                        width: '55%',
+                        html: '32',
+                        width: '50%',
                         height: 50,
                         style: 'text-align: right; color: black; margin: 5px 0px'
                     },
